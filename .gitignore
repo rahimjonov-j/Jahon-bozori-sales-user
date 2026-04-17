@@ -1,0 +1,6 @@
+node_modules
+dist
+.env
+server/data/*.local.json
+vite.out.log
+vite.err.log
