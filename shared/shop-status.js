@@ -12,13 +12,13 @@ export const SHOP_STATUS_META = {
     label: 'Reserved',
     fill: 'rgba(245, 198, 59, 0.34)',
     stroke: '#d6a20a',
-    strokeWidth: 2.4,
+    strokeWidth: 1.8,
   },
   sold: {
     label: 'Sold',
     fill: 'rgba(214, 38, 59, 0.28)',
     stroke: '#d4263b',
-    strokeWidth: 2.6,
+    strokeWidth: 1.8,
   },
 };
 

@@ -521,30 +521,83 @@ function createOverlayShop(overlayLayer, entry, box) {
   group.setAttribute('data-shop-id', entry.shopId);
   group.setAttribute('class', 'shop-unit');
 
-  const rect = document.createElementNS(SVG_NS, 'rect');
-  rect.setAttribute('class', 'shop-unit__shape');
-  rect.setAttribute('x', `${box.x}`);
-  rect.setAttribute('y', `${box.y}`);
-  rect.setAttribute('width', `${Math.max(box.width, 1)}`);
-  rect.setAttribute('height', `${Math.max(box.height, 1)}`);
-  rect.setAttribute('fill', 'transparent');
-  rect.setAttribute('stroke', 'transparent');
-  rect.setAttribute('stroke-width', '0');
-  rect.setAttribute('vector-effect', 'non-scaling-stroke');
-  rect.setAttribute('pointer-events', 'all');
-  group.appendChild(rect);
+  const roomBox = box.roomBox || box;
+  const roomPolygon = Array.isArray(box.roomPolygon) ? box.roomPolygon : null;
+  const shape = roomPolygon?.length >= 3
+    ? document.createElementNS(SVG_NS, 'polygon')
+    : document.createElementNS(SVG_NS, 'rect');
+  shape.setAttribute('class', 'shop-unit__shape');
+
+  if (roomPolygon?.length >= 3) {
+    shape.setAttribute(
+      'points',
+      roomPolygon.map((point) => `${point.x},${point.y}`).join(' '),
+    );
+  } else {
+    shape.setAttribute('x', `${roomBox.x}`);
+    shape.setAttribute('y', `${roomBox.y}`);
+    shape.setAttribute('width', `${Math.max(roomBox.width, 1)}`);
+    shape.setAttribute('height', `${Math.max(roomBox.height, 1)}`);
+  }
+
+  shape.setAttribute('fill', 'transparent');
+  shape.setAttribute('stroke', 'transparent');
+  shape.setAttribute('stroke-width', '0');
+  shape.setAttribute('vector-effect', 'non-scaling-stroke');
+  shape.setAttribute('pointer-events', 'all');
+  group.appendChild(shape);
   overlayLayer.appendChild(group);
 
-  entry.textElement.dataset.shopId = entry.shopId;
-  entry.textElement.classList.add('shop-label');
+  if (entry.textElement) {
+    entry.textElement.dataset.shopId = entry.shopId;
+    entry.textElement.classList.add('shop-label');
+  }
 
   return {
     root: group,
-    shapes: [rect],
+    shapes: [shape],
   };
 }
 
-function buildFallbackOverlayRegistry(svgRoot) {
+function indexShopTextEntriesById(svgRoot) {
+  return new Map(
+    collectShopTextEntries(svgRoot).map((entry) => [entry.shopId, entry]),
+  );
+}
+
+function buildOverlayRegistryFromGeometry(svgRoot, geometryShops) {
+  const registry = new Map();
+  const textEntriesById = indexShopTextEntriesById(svgRoot);
+  const overlayLayer = createOverlayLayer(svgRoot, [...textEntriesById.values()]);
+
+  geometryShops.forEach((geometryShop) => {
+    if (!geometryShop?.shopId || !geometryShop.roomBox || registry.has(geometryShop.shopId)) {
+      return;
+    }
+
+    registry.set(
+      geometryShop.shopId,
+      createOverlayShop(
+        overlayLayer,
+        textEntriesById.get(geometryShop.shopId) || geometryShop,
+        geometryShop,
+      ),
+    );
+  });
+
+  return {
+    registry,
+    cleanup() {
+      overlayLayer.remove();
+    },
+  };
+}
+
+function buildFallbackOverlayRegistry(svgRoot, geometryShops = []) {
+  if (geometryShops.length > 0) {
+    return buildOverlayRegistryFromGeometry(svgRoot, geometryShops);
+  }
+
   const registry = new Map();
   const geometry = collectGeometry(svgRoot);
   const textEntries = withCenters(collectShopTextEntries(svgRoot));
@@ -597,6 +650,7 @@ export function syncSelectedShop(registry, selectedShopId) {
 
 export function initializeShopLayer({
   container,
+  geometryShops = [],
   onHoverShopChange,
   onSelectShop,
 }) {
@@ -618,7 +672,7 @@ export function initializeShopLayer({
   let registry = indexNativeShopElements(svgRoot);
 
   if (registry.size === 0) {
-    const overlaySession = buildFallbackOverlayRegistry(svgRoot);
+    const overlaySession = buildFallbackOverlayRegistry(svgRoot, geometryShops);
     registry = overlaySession.registry;
     cleanupOverlay = overlaySession.cleanup;
   }

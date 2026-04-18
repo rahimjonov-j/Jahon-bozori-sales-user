@@ -1,0 +1,7990 @@
+{
+  "version": 1,
+  "floorPlanId": "A-1",
+  "sourceAsset": "/assets/Ablock-1-etaj.svg",
+  "viewBox": "0 0 3370 2384",
+  "layerAllowlist": [
+    "A-WALL",
+    "A-WALL-CURT",
+    "A-WALL-SHEA",
+    "A-COLU-CONC",
+    "A-DOOR",
+    "A-WINDOW",
+    "A-FLOR-RAIL",
+    "A-FLOR-STRS"
+  ],
+  "stats": {
+    "shopCount": 222,
+    "geometryShapeCount": 5984,
+    "lineShapeCount": 2459,
+    "boundarySegmentCount": 2532,
+    "mergedSegmentCount": 434,
+    "confidence": {
+      "high": 9,
+      "medium": 213,
+      "low": 0
+    },
+    "unresolvedCount": 0
+  },
+  "unresolved": [],
+  "shops": [
+    {
+      "shopId": "A-1-101",
+      "textBox": {
+        "x": 1015.72,
+        "y": 306.68,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 988.76,
+        "y": 267.84,
+        "width": 83.52,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 988.76,
+          "y": 267.84
+        },
+        {
+          "x": 1072.28,
+          "y": 267.84
+        },
+        {
+          "x": 1072.28,
+          "y": 391.62
+        },
+        {
+          "x": 988.76,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-102",
+      "textBox": {
+        "x": 934.36,
+        "y": 306.56,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 903.92,
+        "y": 267.84,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 903.92,
+          "y": 267.84
+        },
+        {
+          "x": 986,
+          "y": 267.84
+        },
+        {
+          "x": 986,
+          "y": 391.62
+        },
+        {
+          "x": 903.92,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-103",
+      "textBox": {
+        "x": 849.52,
+        "y": 306.56,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 819.08,
+        "y": 267.84,
+        "width": 81.96,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 819.08,
+          "y": 267.84
+        },
+        {
+          "x": 901.04,
+          "y": 267.84
+        },
+        {
+          "x": 901.04,
+          "y": 391.62
+        },
+        {
+          "x": 819.08,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-104",
+      "textBox": {
+        "x": 764.56,
+        "y": 306.56,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 734.12,
+        "y": 267.84,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 734.12,
+          "y": 267.84
+        },
+        {
+          "x": 816.2,
+          "y": 267.84
+        },
+        {
+          "x": 816.2,
+          "y": 391.62
+        },
+        {
+          "x": 734.12,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-105",
+      "textBox": {
+        "x": 679.72,
+        "y": 306.56,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 649.28,
+        "y": 267.84,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 649.28,
+          "y": 267.84
+        },
+        {
+          "x": 731.36,
+          "y": 267.84
+        },
+        {
+          "x": 731.36,
+          "y": 391.62
+        },
+        {
+          "x": 649.28,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-106",
+      "textBox": {
+        "x": 594.88,
+        "y": 306.56,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 563.72,
+        "y": 267.84,
+        "width": 82.68,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 563.72,
+          "y": 267.84
+        },
+        {
+          "x": 646.4,
+          "y": 267.84
+        },
+        {
+          "x": 646.4,
+          "y": 391.62
+        },
+        {
+          "x": 563.72,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-107",
+      "textBox": {
+        "x": 505.72,
+        "y": 306.56,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 307.7,
+        "y": 267.84,
+        "width": 296.82,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 431.48,
+          "y": 267.84
+        },
+        {
+          "x": 604.52,
+          "y": 267.84
+        },
+        {
+          "x": 480.74,
+          "y": 391.62
+        },
+        {
+          "x": 307.7,
+          "y": 391.62
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-108",
+      "textBox": {
+        "x": 400.24,
+        "y": 377.24,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 347.42,
+        "y": 301.86,
+        "width": 136.56,
+        "height": 136.56
+      },
+      "roomPolygon": [
+        {
+          "x": 347.42,
+          "y": 351.9
+        },
+        {
+          "x": 397.46,
+          "y": 301.86
+        },
+        {
+          "x": 483.98,
+          "y": 388.38
+        },
+        {
+          "x": 433.94,
+          "y": 438.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-109",
+      "textBox": {
+        "x": 340.24,
+        "y": 437.24,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 287.42,
+        "y": 379.62,
+        "width": 118.8,
+        "height": 118.8
+      },
+      "roomPolygon": [
+        {
+          "x": 287.42,
+          "y": 411.9
+        },
+        {
+          "x": 319.7,
+          "y": 379.62
+        },
+        {
+          "x": 406.22,
+          "y": 466.14
+        },
+        {
+          "x": 373.94,
+          "y": 498.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-110",
+      "textBox": {
+        "x": 294.4,
+        "y": 487.4,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 271.76,
+        "y": 488.28,
+        "width": 56.16,
+        "height": 56.16
+      },
+      "roomPolygon": null,
+      "method": "parent-group-match",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-111",
+      "textBox": {
+        "x": 249.64,
+        "y": 547.04,
+        "width": 33.36,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 372.72,
+        "width": 122.34,
+        "height": 295.26
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 495.06
+        },
+        {
+          "x": 326.72,
+          "y": 372.72
+        },
+        {
+          "x": 326.72,
+          "y": 545.64
+        },
+        {
+          "x": 204.38,
+          "y": 667.98
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-112",
+      "textBox": {
+        "x": 249.88,
+        "y": 682.88,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 642.72,
+        "width": 122.34,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 642.72
+        },
+        {
+          "x": 326.72,
+          "y": 642.72
+        },
+        {
+          "x": 326.72,
+          "y": 766.56
+        },
+        {
+          "x": 204.38,
+          "y": 766.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-113",
+      "textBox": {
+        "x": 252.64,
+        "y": 785.48,
+        "width": 33.36,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 769.32,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 769.32
+        },
+        {
+          "x": 328.16,
+          "y": 769.32
+        },
+        {
+          "x": 328.16,
+          "y": 851.4
+        },
+        {
+          "x": 204.38,
+          "y": 851.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-114",
+      "textBox": {
+        "x": 252.64,
+        "y": 870.32,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 854.28,
+        "width": 123.78,
+        "height": 83.4
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 854.28
+        },
+        {
+          "x": 328.16,
+          "y": 854.28
+        },
+        {
+          "x": 328.16,
+          "y": 937.68
+        },
+        {
+          "x": 204.38,
+          "y": 937.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-115",
+      "textBox": {
+        "x": 1015.96,
+        "y": 424.04,
+        "width": 33.36,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 988.76,
+        "y": 391.62,
+        "width": 83.52,
+        "height": 47.46
+      },
+      "roomPolygon": [
+        {
+          "x": 988.76,
+          "y": 391.62
+        },
+        {
+          "x": 1072.28,
+          "y": 391.62
+        },
+        {
+          "x": 1072.28,
+          "y": 439.08
+        },
+        {
+          "x": 988.76,
+          "y": 439.08
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-116",
+      "textBox": {
+        "x": 934.6,
+        "y": 424.04,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 903.92,
+        "y": 391.62,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 903.92,
+          "y": 391.62
+        },
+        {
+          "x": 986,
+          "y": 391.62
+        },
+        {
+          "x": 986,
+          "y": 515.4
+        },
+        {
+          "x": 903.92,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-117",
+      "textBox": {
+        "x": 849.76,
+        "y": 424.04,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 819.08,
+        "y": 391.62,
+        "width": 81.96,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 819.08,
+          "y": 391.62
+        },
+        {
+          "x": 901.04,
+          "y": 391.62
+        },
+        {
+          "x": 901.04,
+          "y": 515.4
+        },
+        {
+          "x": 819.08,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-118",
+      "textBox": {
+        "x": 764.92,
+        "y": 424.04,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 734.12,
+        "y": 391.62,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 734.12,
+          "y": 391.62
+        },
+        {
+          "x": 816.2,
+          "y": 391.62
+        },
+        {
+          "x": 816.2,
+          "y": 515.4
+        },
+        {
+          "x": 734.12,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-119",
+      "textBox": {
+        "x": 679.96,
+        "y": 424.04,
+        "width": 33.86,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 649.28,
+        "y": 391.62,
+        "width": 82.08,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 649.28,
+          "y": 391.62
+        },
+        {
+          "x": 731.36,
+          "y": 391.62
+        },
+        {
+          "x": 731.36,
+          "y": 515.4
+        },
+        {
+          "x": 649.28,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-120",
+      "textBox": {
+        "x": 595.12,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 563.72,
+        "y": 391.62,
+        "width": 82.68,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 563.72,
+          "y": 391.62
+        },
+        {
+          "x": 646.4,
+          "y": 391.62
+        },
+        {
+          "x": 646.4,
+          "y": 515.4
+        },
+        {
+          "x": 563.72,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-121",
+      "textBox": {
+        "x": 525.88,
+        "y": 404.6,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 526.28,
+        "y": 391.62,
+        "width": 120.12,
+        "height": 123.78
+      },
+      "roomPolygon": [
+        {
+          "x": 526.28,
+          "y": 391.62
+        },
+        {
+          "x": 646.4,
+          "y": 391.62
+        },
+        {
+          "x": 646.4,
+          "y": 515.4
+        },
+        {
+          "x": 526.28,
+          "y": 515.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-122",
+      "textBox": {
+        "x": 478.6,
+        "y": 404.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 441.86,
+        "y": 388.38,
+        "width": 103.25,
+        "height": 103.25
+      },
+      "roomPolygon": [
+        {
+          "x": 441.86,
+          "y": 430.5
+        },
+        {
+          "x": 483.98,
+          "y": 388.38
+        },
+        {
+          "x": 545.11,
+          "y": 449.51
+        },
+        {
+          "x": 502.99,
+          "y": 491.63
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-123",
+      "textBox": {
+        "x": 432.88,
+        "y": 450.2,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 410.24,
+        "y": 432.48,
+        "width": 91.68,
+        "height": 91.68
+      },
+      "roomPolygon": null,
+      "method": "parent-group-match",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-124",
+      "textBox": {
+        "x": 371.56,
+        "y": 682.88,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 326.72,
+        "y": 642.72,
+        "width": 125.22,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 326.72,
+          "y": 642.72
+        },
+        {
+          "x": 451.94,
+          "y": 642.72
+        },
+        {
+          "x": 451.94,
+          "y": 766.56
+        },
+        {
+          "x": 326.72,
+          "y": 766.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-125",
+      "textBox": {
+        "x": 374.32,
+        "y": 785.48,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 328.16,
+        "y": 769.32,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 328.16,
+          "y": 769.32
+        },
+        {
+          "x": 451.94,
+          "y": 769.32
+        },
+        {
+          "x": 451.94,
+          "y": 851.4
+        },
+        {
+          "x": 328.16,
+          "y": 851.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-1-126",
+      "textBox": {
+        "x": 369.52,
+        "y": 870.32,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 328.16,
+        "y": 854.28,
+        "width": 123.78,
+        "height": 83.4
+      },
+      "roomPolygon": [
+        {
+          "x": 328.16,
+          "y": 854.28
+        },
+        {
+          "x": 451.94,
+          "y": 854.28
+        },
+        {
+          "x": 451.94,
+          "y": 937.68
+        },
+        {
+          "x": 328.16,
+          "y": 937.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-101",
+      "textBox": {
+        "x": 1685.56,
+        "y": 1616,
+        "width": 39.73,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 1577.76,
+        "width": 83.52,
+        "height": 84.36
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 1577.76
+        },
+        {
+          "x": 1739.96,
+          "y": 1577.76
+        },
+        {
+          "x": 1739.96,
+          "y": 1662.12
+        },
+        {
+          "x": 1656.44,
+          "y": 1662.12
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-102",
+      "textBox": {
+        "x": 1770.4,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 1577.76
+        },
+        {
+          "x": 1824.8,
+          "y": 1577.76
+        },
+        {
+          "x": 1824.8,
+          "y": 1700.16
+        },
+        {
+          "x": 1742.72,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-103",
+      "textBox": {
+        "x": 1855.36,
+        "y": 1615.88,
+        "width": 39.73,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 1577.76
+        },
+        {
+          "x": 1909.76,
+          "y": 1577.76
+        },
+        {
+          "x": 1909.76,
+          "y": 1700.16
+        },
+        {
+          "x": 1827.68,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-104",
+      "textBox": {
+        "x": 1940.2,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 1577.76
+        },
+        {
+          "x": 1994.6,
+          "y": 1577.76
+        },
+        {
+          "x": 1994.6,
+          "y": 1700.16
+        },
+        {
+          "x": 1912.52,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-105",
+      "textBox": {
+        "x": 2025.04,
+        "y": 1615.88,
+        "width": 39.73,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 1577.76
+        },
+        {
+          "x": 2079.44,
+          "y": 1577.76
+        },
+        {
+          "x": 2079.44,
+          "y": 1700.16
+        },
+        {
+          "x": 1997.36,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-106",
+      "textBox": {
+        "x": 2109.88,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2082.32,
+        "y": 1577.76,
+        "width": 81.96,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2082.32,
+          "y": 1577.76
+        },
+        {
+          "x": 2164.28,
+          "y": 1577.76
+        },
+        {
+          "x": 2164.28,
+          "y": 1700.16
+        },
+        {
+          "x": 2082.32,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-107",
+      "textBox": {
+        "x": 2194.84,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 1577.76
+        },
+        {
+          "x": 2249.24,
+          "y": 1577.76
+        },
+        {
+          "x": 2249.24,
+          "y": 1700.16
+        },
+        {
+          "x": 2167.16,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-108",
+      "textBox": {
+        "x": 2279.68,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 1577.76
+        },
+        {
+          "x": 2334.08,
+          "y": 1577.76
+        },
+        {
+          "x": 2334.08,
+          "y": 1700.16
+        },
+        {
+          "x": 2252,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-109",
+      "textBox": {
+        "x": 2364.52,
+        "y": 1615.88,
+        "width": 40.23,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 1577.76,
+        "width": 81.96,
+        "height": 85.56
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 1577.76
+        },
+        {
+          "x": 2418.92,
+          "y": 1577.76
+        },
+        {
+          "x": 2418.92,
+          "y": 1663.32
+        },
+        {
+          "x": 2336.96,
+          "y": 1663.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-110",
+      "textBox": {
+        "x": 2447.2,
+        "y": 1616,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 1577.76,
+        "width": 83.4,
+        "height": 85.56
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 1577.76
+        },
+        {
+          "x": 2505.2,
+          "y": 1577.76
+        },
+        {
+          "x": 2505.2,
+          "y": 1663.32
+        },
+        {
+          "x": 2421.8,
+          "y": 1663.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-111",
+      "textBox": {
+        "x": 1684,
+        "y": 1733.96,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 1703.04,
+        "width": 83.52,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 1703.04
+        },
+        {
+          "x": 1739.96,
+          "y": 1703.04
+        },
+        {
+          "x": 1739.96,
+          "y": 1825.38
+        },
+        {
+          "x": 1656.44,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-112",
+      "textBox": {
+        "x": 1768.84,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 1703.04
+        },
+        {
+          "x": 1824.8,
+          "y": 1703.04
+        },
+        {
+          "x": 1824.8,
+          "y": 1825.38
+        },
+        {
+          "x": 1742.72,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-113",
+      "textBox": {
+        "x": 1853.8,
+        "y": 1733.96,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 1703.04
+        },
+        {
+          "x": 1909.76,
+          "y": 1703.04
+        },
+        {
+          "x": 1909.76,
+          "y": 1825.32
+        },
+        {
+          "x": 1827.68,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-114",
+      "textBox": {
+        "x": 1938.64,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 1703.04
+        },
+        {
+          "x": 1994.6,
+          "y": 1703.04
+        },
+        {
+          "x": 1994.6,
+          "y": 1825.32
+        },
+        {
+          "x": 1912.52,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-115",
+      "textBox": {
+        "x": 2023.48,
+        "y": 1733.96,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 52.32
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 1703.04
+        },
+        {
+          "x": 2079.44,
+          "y": 1703.04
+        },
+        {
+          "x": 2079.44,
+          "y": 1755.36
+        },
+        {
+          "x": 1997.36,
+          "y": 1755.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-116",
+      "textBox": {
+        "x": 2193.28,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 52.32
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 1703.04
+        },
+        {
+          "x": 2249.24,
+          "y": 1703.04
+        },
+        {
+          "x": 2249.24,
+          "y": 1755.36
+        },
+        {
+          "x": 2167.16,
+          "y": 1755.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-117",
+      "textBox": {
+        "x": 2278.12,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 1703.04
+        },
+        {
+          "x": 2334.08,
+          "y": 1703.04
+        },
+        {
+          "x": 2334.08,
+          "y": 1825.32
+        },
+        {
+          "x": 2252,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-118",
+      "textBox": {
+        "x": 2363.08,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 1703.04,
+        "width": 81.96,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 1703.04
+        },
+        {
+          "x": 2418.92,
+          "y": 1703.04
+        },
+        {
+          "x": 2418.92,
+          "y": 1825.38
+        },
+        {
+          "x": 2336.96,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-10-119",
+      "textBox": {
+        "x": 2448.76,
+        "y": 1733.96,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 1703.04,
+        "width": 83.4,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 1703.04
+        },
+        {
+          "x": 2505.2,
+          "y": 1703.04
+        },
+        {
+          "x": 2505.2,
+          "y": 1825.38
+        },
+        {
+          "x": 2421.8,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-101",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1168.64,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1114.56,
+        "width": 122.4,
+        "height": 118.8
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1114.56
+        },
+        {
+          "x": 2819.36,
+          "y": 1114.56
+        },
+        {
+          "x": 2819.36,
+          "y": 1233.36
+        },
+        {
+          "x": 2696.96,
+          "y": 1233.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-102",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1252.04,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1236.12,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1236.12
+        },
+        {
+          "x": 2819.36,
+          "y": 1236.12
+        },
+        {
+          "x": 2819.36,
+          "y": 1318.2
+        },
+        {
+          "x": 2696.96,
+          "y": 1318.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-103",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1337,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1321.08,
+        "width": 122.4,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1321.08
+        },
+        {
+          "x": 2819.36,
+          "y": 1321.08
+        },
+        {
+          "x": 2819.36,
+          "y": 1403.04
+        },
+        {
+          "x": 2696.96,
+          "y": 1403.04
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-104",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1421.84,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1405.92,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1405.92
+        },
+        {
+          "x": 2819.36,
+          "y": 1405.92
+        },
+        {
+          "x": 2819.36,
+          "y": 1488
+        },
+        {
+          "x": 2696.96,
+          "y": 1488
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-105",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1506.68,
+        "width": 38.31,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1490.76,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1490.76
+        },
+        {
+          "x": 2819.36,
+          "y": 1490.76
+        },
+        {
+          "x": 2819.36,
+          "y": 1572.84
+        },
+        {
+          "x": 2696.96,
+          "y": 1572.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-106",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1591.64,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1575.72,
+        "width": 122.4,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1575.72
+        },
+        {
+          "x": 2819.36,
+          "y": 1575.72
+        },
+        {
+          "x": 2819.36,
+          "y": 1657.68
+        },
+        {
+          "x": 2696.96,
+          "y": 1657.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-107",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1676.48,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1660.56,
+        "width": 89.52,
+        "height": 83.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1660.56
+        },
+        {
+          "x": 2786.48,
+          "y": 1660.56
+        },
+        {
+          "x": 2786.48,
+          "y": 1743.96
+        },
+        {
+          "x": 2696.96,
+          "y": 1743.96
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-108",
+      "textBox": {
+        "x": 2749.72,
+        "y": 1761.32,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 1743.96,
+        "width": 89.52,
+        "height": 83.68
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 1743.96
+        },
+        {
+          "x": 2786.48,
+          "y": 1743.96
+        },
+        {
+          "x": 2786.48,
+          "y": 1827.64
+        },
+        {
+          "x": 2696.96,
+          "y": 1827.64
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-109",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1168.64,
+        "width": 38.81,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1114.56,
+        "width": 122.4,
+        "height": 118.8
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1114.56
+        },
+        {
+          "x": 2944.52,
+          "y": 1114.56
+        },
+        {
+          "x": 2944.52,
+          "y": 1233.36
+        },
+        {
+          "x": 2822.12,
+          "y": 1233.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-110",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1252.16,
+        "width": 37.4,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1236.12,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1236.12
+        },
+        {
+          "x": 2944.52,
+          "y": 1236.12
+        },
+        {
+          "x": 2944.52,
+          "y": 1318.2
+        },
+        {
+          "x": 2822.12,
+          "y": 1318.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-111",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1337.12,
+        "width": 36.9,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1321.08,
+        "width": 122.4,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1321.08
+        },
+        {
+          "x": 2944.52,
+          "y": 1321.08
+        },
+        {
+          "x": 2944.52,
+          "y": 1403.04
+        },
+        {
+          "x": 2822.12,
+          "y": 1403.04
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-112",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1421.84,
+        "width": 37.4,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1405.92,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1405.92
+        },
+        {
+          "x": 2944.52,
+          "y": 1405.92
+        },
+        {
+          "x": 2944.52,
+          "y": 1488
+        },
+        {
+          "x": 2822.12,
+          "y": 1488
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-113",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1506.8,
+        "width": 36.9,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1490.76,
+        "width": 122.4,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1490.76
+        },
+        {
+          "x": 2944.52,
+          "y": 1490.76
+        },
+        {
+          "x": 2944.52,
+          "y": 1572.84
+        },
+        {
+          "x": 2822.12,
+          "y": 1572.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-114",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1591.64,
+        "width": 37.4,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1575.72,
+        "width": 122.4,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1575.72
+        },
+        {
+          "x": 2944.52,
+          "y": 1575.72
+        },
+        {
+          "x": 2944.52,
+          "y": 1657.68
+        },
+        {
+          "x": 2822.12,
+          "y": 1657.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-115",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1676.48,
+        "width": 36.9,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1660.56,
+        "width": 122.4,
+        "height": 83.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1660.56
+        },
+        {
+          "x": 2944.52,
+          "y": 1660.56
+        },
+        {
+          "x": 2944.52,
+          "y": 1743.96
+        },
+        {
+          "x": 2822.12,
+          "y": 1743.96
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-11-116",
+      "textBox": {
+        "x": 2866.6,
+        "y": 1761.44,
+        "width": 37.4,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2822.12,
+        "y": 1743.96,
+        "width": 122.4,
+        "height": 83.68
+      },
+      "roomPolygon": [
+        {
+          "x": 2822.12,
+          "y": 1743.96
+        },
+        {
+          "x": 2944.52,
+          "y": 1743.96
+        },
+        {
+          "x": 2944.52,
+          "y": 1827.64
+        },
+        {
+          "x": 2822.12,
+          "y": 1827.64
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-101",
+      "textBox": {
+        "x": 1224.4,
+        "y": 306.56,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1192.52,
+        "y": 267.72,
+        "width": 83.52,
+        "height": 95.46
+      },
+      "roomPolygon": [
+        {
+          "x": 1192.52,
+          "y": 267.72
+        },
+        {
+          "x": 1276.04,
+          "y": 267.72
+        },
+        {
+          "x": 1276.04,
+          "y": 363.18
+        },
+        {
+          "x": 1192.52,
+          "y": 363.18
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-102",
+      "textBox": {
+        "x": 1302.76,
+        "y": 306.56,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1278.8,
+        "y": 267.72,
+        "width": 82.08,
+        "height": 95.46
+      },
+      "roomPolygon": [
+        {
+          "x": 1278.8,
+          "y": 267.72
+        },
+        {
+          "x": 1360.88,
+          "y": 267.72
+        },
+        {
+          "x": 1360.88,
+          "y": 363.18
+        },
+        {
+          "x": 1278.8,
+          "y": 363.18
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-103",
+      "textBox": {
+        "x": 1387.6,
+        "y": 306.56,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1363.64,
+        "y": 267.78,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1363.64,
+          "y": 267.78
+        },
+        {
+          "x": 1445.72,
+          "y": 267.78
+        },
+        {
+          "x": 1445.72,
+          "y": 391.5
+        },
+        {
+          "x": 1363.64,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-104",
+      "textBox": {
+        "x": 1472.44,
+        "y": 306.44,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1448.6,
+        "y": 267.78,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1448.6,
+          "y": 267.78
+        },
+        {
+          "x": 1530.56,
+          "y": 267.78
+        },
+        {
+          "x": 1530.56,
+          "y": 391.5
+        },
+        {
+          "x": 1448.6,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-105",
+      "textBox": {
+        "x": 1557.28,
+        "y": 306.56,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1533.44,
+        "y": 267.78,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1533.44,
+          "y": 267.78
+        },
+        {
+          "x": 1615.52,
+          "y": 267.78
+        },
+        {
+          "x": 1615.52,
+          "y": 391.5
+        },
+        {
+          "x": 1533.44,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-106",
+      "textBox": {
+        "x": 1642.24,
+        "y": 306.56,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1618.28,
+        "y": 267.78,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1618.28,
+          "y": 267.78
+        },
+        {
+          "x": 1700.36,
+          "y": 267.78
+        },
+        {
+          "x": 1700.36,
+          "y": 391.5
+        },
+        {
+          "x": 1618.28,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-107",
+      "textBox": {
+        "x": 1727.08,
+        "y": 306.56,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1703.24,
+        "y": 267.78,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1703.24,
+          "y": 267.78
+        },
+        {
+          "x": 1785.2,
+          "y": 267.78
+        },
+        {
+          "x": 1785.2,
+          "y": 391.5
+        },
+        {
+          "x": 1703.24,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-108",
+      "textBox": {
+        "x": 1811.92,
+        "y": 306.56,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1788.08,
+        "y": 267.78,
+        "width": 82.02,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1788.08,
+          "y": 267.78
+        },
+        {
+          "x": 1870.1,
+          "y": 267.78
+        },
+        {
+          "x": 1870.1,
+          "y": 391.5
+        },
+        {
+          "x": 1788.08,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-109",
+      "textBox": {
+        "x": 1900.36,
+        "y": 306.56,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1870.1,
+        "y": 267.78,
+        "width": 86.29,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1870.1,
+          "y": 267.78
+        },
+        {
+          "x": 1956.38,
+          "y": 267.78
+        },
+        {
+          "x": 1956.38,
+          "y": 391.5
+        },
+        {
+          "x": 1870.1,
+          "y": 391.5
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-110",
+      "textBox": {
+        "x": 1224.64,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1192.52,
+        "y": 391.5,
+        "width": 83.52,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1192.52,
+          "y": 391.5
+        },
+        {
+          "x": 1276.04,
+          "y": 391.5
+        },
+        {
+          "x": 1276.04,
+          "y": 515.34
+        },
+        {
+          "x": 1192.52,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-111",
+      "textBox": {
+        "x": 1303,
+        "y": 424.04,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1278.8,
+        "y": 391.5,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1278.8,
+          "y": 391.5
+        },
+        {
+          "x": 1360.88,
+          "y": 391.5
+        },
+        {
+          "x": 1360.88,
+          "y": 515.34
+        },
+        {
+          "x": 1278.8,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-112",
+      "textBox": {
+        "x": 1387.84,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1363.64,
+        "y": 391.5,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1363.64,
+          "y": 391.5
+        },
+        {
+          "x": 1445.72,
+          "y": 391.5
+        },
+        {
+          "x": 1445.72,
+          "y": 515.34
+        },
+        {
+          "x": 1363.64,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-113",
+      "textBox": {
+        "x": 1472.68,
+        "y": 424.04,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1448.6,
+        "y": 391.5,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1448.6,
+          "y": 391.5
+        },
+        {
+          "x": 1530.56,
+          "y": 391.5
+        },
+        {
+          "x": 1530.56,
+          "y": 515.34
+        },
+        {
+          "x": 1448.6,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-114",
+      "textBox": {
+        "x": 1557.64,
+        "y": 423.92,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1533.44,
+        "y": 391.5,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1533.44,
+          "y": 391.5
+        },
+        {
+          "x": 1615.52,
+          "y": 391.5
+        },
+        {
+          "x": 1615.52,
+          "y": 515.34
+        },
+        {
+          "x": 1533.44,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-115",
+      "textBox": {
+        "x": 1642.48,
+        "y": 424.04,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1618.28,
+        "y": 391.5,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1618.28,
+          "y": 391.5
+        },
+        {
+          "x": 1700.36,
+          "y": 391.5
+        },
+        {
+          "x": 1700.36,
+          "y": 515.34
+        },
+        {
+          "x": 1618.28,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-116",
+      "textBox": {
+        "x": 1727.32,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1703.24,
+        "y": 391.5,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1703.24,
+          "y": 391.5
+        },
+        {
+          "x": 1785.2,
+          "y": 391.5
+        },
+        {
+          "x": 1785.2,
+          "y": 515.34
+        },
+        {
+          "x": 1703.24,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-117",
+      "textBox": {
+        "x": 1812.28,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1788.08,
+        "y": 391.5,
+        "width": 82.02,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1788.08,
+          "y": 391.5
+        },
+        {
+          "x": 1870.1,
+          "y": 391.5
+        },
+        {
+          "x": 1870.1,
+          "y": 515.34
+        },
+        {
+          "x": 1788.08,
+          "y": 515.34
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-2-118",
+      "textBox": {
+        "x": 1900.6,
+        "y": 424.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1870.1,
+        "y": 391.5,
+        "width": 86.29,
+        "height": 47.58
+      },
+      "roomPolygon": [
+        {
+          "x": 1870.1,
+          "y": 391.5
+        },
+        {
+          "x": 1956.38,
+          "y": 391.5
+        },
+        {
+          "x": 1956.38,
+          "y": 439.08
+        },
+        {
+          "x": 1870.1,
+          "y": 439.08
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-101",
+      "textBox": {
+        "x": 2103.76,
+        "y": 306.44,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2076.68,
+        "y": 267.72,
+        "width": 83.4,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2076.68,
+          "y": 267.72
+        },
+        {
+          "x": 2160.08,
+          "y": 267.72
+        },
+        {
+          "x": 2160.08,
+          "y": 391.56
+        },
+        {
+          "x": 2076.68,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-102",
+      "textBox": {
+        "x": 2185.12,
+        "y": 306.44,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2162.96,
+        "y": 267.72,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2162.96,
+          "y": 267.72
+        },
+        {
+          "x": 2244.92,
+          "y": 267.72
+        },
+        {
+          "x": 2244.92,
+          "y": 391.56
+        },
+        {
+          "x": 2162.96,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-103",
+      "textBox": {
+        "x": 2269.96,
+        "y": 306.44,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2247.8,
+        "y": 267.72,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2247.8,
+          "y": 267.72
+        },
+        {
+          "x": 2329.88,
+          "y": 267.72
+        },
+        {
+          "x": 2329.88,
+          "y": 391.56
+        },
+        {
+          "x": 2247.8,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-104",
+      "textBox": {
+        "x": 2354.92,
+        "y": 306.44,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2332.64,
+        "y": 267.72,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2332.64,
+          "y": 267.72
+        },
+        {
+          "x": 2414.72,
+          "y": 267.72
+        },
+        {
+          "x": 2414.72,
+          "y": 391.56
+        },
+        {
+          "x": 2332.64,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-105",
+      "textBox": {
+        "x": 2439.76,
+        "y": 306.44,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2417.6,
+        "y": 267.72,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2417.6,
+          "y": 267.72
+        },
+        {
+          "x": 2499.56,
+          "y": 267.72
+        },
+        {
+          "x": 2499.56,
+          "y": 391.56
+        },
+        {
+          "x": 2417.6,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-106",
+      "textBox": {
+        "x": 2524.6,
+        "y": 306.44,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2502.44,
+        "y": 267.72,
+        "width": 84.12,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2502.44,
+          "y": 267.72
+        },
+        {
+          "x": 2586.56,
+          "y": 267.72
+        },
+        {
+          "x": 2586.56,
+          "y": 391.56
+        },
+        {
+          "x": 2502.44,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-107",
+      "textBox": {
+        "x": 2612.44,
+        "y": 306.92,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2544.38,
+        "y": 267.72,
+        "width": 296.82,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2544.38,
+          "y": 267.72
+        },
+        {
+          "x": 2717.36,
+          "y": 267.72
+        },
+        {
+          "x": 2841.2,
+          "y": 391.56
+        },
+        {
+          "x": 2668.22,
+          "y": 391.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-108",
+      "textBox": {
+        "x": 2719.96,
+        "y": 335.84,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2663.99,
+        "y": 300.84,
+        "width": 126.42,
+        "height": 126.42
+      },
+      "roomPolygon": [
+        {
+          "x": 2750.48,
+          "y": 300.84
+        },
+        {
+          "x": 2790.41,
+          "y": 340.77
+        },
+        {
+          "x": 2703.92,
+          "y": 427.26
+        },
+        {
+          "x": 2663.99,
+          "y": 387.33
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-109",
+      "textBox": {
+        "x": 2776,
+        "y": 404.12,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2712.14,
+        "y": 348.96,
+        "width": 146.46,
+        "height": 146.46
+      },
+      "roomPolygon": [
+        {
+          "x": 2798.6,
+          "y": 348.96
+        },
+        {
+          "x": 2858.6,
+          "y": 408.96
+        },
+        {
+          "x": 2772.14,
+          "y": 495.42
+        },
+        {
+          "x": 2712.14,
+          "y": 435.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-110",
+      "textBox": {
+        "x": 2839.48,
+        "y": 444.8,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2772.14,
+        "y": 408.9,
+        "width": 134.4,
+        "height": 134.4
+      },
+      "roomPolygon": [
+        {
+          "x": 2858.66,
+          "y": 408.9
+        },
+        {
+          "x": 2906.54,
+          "y": 456.78
+        },
+        {
+          "x": 2820.02,
+          "y": 543.3
+        },
+        {
+          "x": 2772.14,
+          "y": 495.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-111",
+      "textBox": {
+        "x": 2867.32,
+        "y": 516.92,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2820.81,
+        "y": 371.05,
+        "width": 123.71,
+        "height": 296.75
+      },
+      "roomPolygon": [
+        {
+          "x": 2820.81,
+          "y": 371.05
+        },
+        {
+          "x": 2944.52,
+          "y": 494.76
+        },
+        {
+          "x": 2944.52,
+          "y": 667.8
+        },
+        {
+          "x": 2820.81,
+          "y": 544.09
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-112",
+      "textBox": {
+        "x": 2867.32,
+        "y": 615.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2820.74,
+        "y": 600.36,
+        "width": 123.78,
+        "height": 81.24
+      },
+      "roomPolygon": [
+        {
+          "x": 2820.74,
+          "y": 600.36
+        },
+        {
+          "x": 2944.52,
+          "y": 600.36
+        },
+        {
+          "x": 2944.52,
+          "y": 681.6
+        },
+        {
+          "x": 2820.74,
+          "y": 681.6
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-113",
+      "textBox": {
+        "x": 2867.32,
+        "y": 700.52,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2820.74,
+        "y": 684.48,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2820.74,
+          "y": 684.48
+        },
+        {
+          "x": 2944.52,
+          "y": 684.48
+        },
+        {
+          "x": 2944.52,
+          "y": 766.56
+        },
+        {
+          "x": 2820.74,
+          "y": 766.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-114",
+      "textBox": {
+        "x": 2867.32,
+        "y": 785.48,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2820.74,
+        "y": 769.32,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2820.74,
+          "y": 769.32
+        },
+        {
+          "x": 2944.52,
+          "y": 769.32
+        },
+        {
+          "x": 2944.52,
+          "y": 851.4
+        },
+        {
+          "x": 2820.74,
+          "y": 851.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-115",
+      "textBox": {
+        "x": 2867.32,
+        "y": 870.32,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2820.74,
+        "y": 854.28,
+        "width": 123.78,
+        "height": 82.12
+      },
+      "roomPolygon": [
+        {
+          "x": 2820.74,
+          "y": 854.28
+        },
+        {
+          "x": 2944.52,
+          "y": 854.28
+        },
+        {
+          "x": 2944.52,
+          "y": 936.4
+        },
+        {
+          "x": 2820.74,
+          "y": 936.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-116",
+      "textBox": {
+        "x": 2104,
+        "y": 423.92,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2102.12,
+        "y": 391.56,
+        "width": 57.96,
+        "height": 47.52
+      },
+      "roomPolygon": [
+        {
+          "x": 2102.12,
+          "y": 391.56
+        },
+        {
+          "x": 2160.08,
+          "y": 391.56
+        },
+        {
+          "x": 2160.08,
+          "y": 439.08
+        },
+        {
+          "x": 2102.12,
+          "y": 439.08
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-117",
+      "textBox": {
+        "x": 2185.36,
+        "y": 423.92,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2162.96,
+        "y": 391.56,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2162.96,
+          "y": 391.56
+        },
+        {
+          "x": 2244.92,
+          "y": 391.56
+        },
+        {
+          "x": 2244.92,
+          "y": 515.28
+        },
+        {
+          "x": 2162.96,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-118",
+      "textBox": {
+        "x": 2270.2,
+        "y": 423.92,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2247.8,
+        "y": 391.56,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2247.8,
+          "y": 391.56
+        },
+        {
+          "x": 2329.88,
+          "y": 391.56
+        },
+        {
+          "x": 2329.88,
+          "y": 515.28
+        },
+        {
+          "x": 2247.8,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-119",
+      "textBox": {
+        "x": 2355.16,
+        "y": 423.92,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2332.64,
+        "y": 391.56,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2332.64,
+          "y": 391.56
+        },
+        {
+          "x": 2414.72,
+          "y": 391.56
+        },
+        {
+          "x": 2414.72,
+          "y": 515.28
+        },
+        {
+          "x": 2332.64,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-120",
+      "textBox": {
+        "x": 2440,
+        "y": 423.92,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2417.6,
+        "y": 391.56,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2417.6,
+          "y": 391.56
+        },
+        {
+          "x": 2499.56,
+          "y": 391.56
+        },
+        {
+          "x": 2499.56,
+          "y": 515.28
+        },
+        {
+          "x": 2417.6,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-121",
+      "textBox": {
+        "x": 2524.84,
+        "y": 423.8,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2502.44,
+        "y": 391.56,
+        "width": 84.12,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2502.44,
+          "y": 391.56
+        },
+        {
+          "x": 2586.56,
+          "y": 391.56
+        },
+        {
+          "x": 2586.56,
+          "y": 515.28
+        },
+        {
+          "x": 2502.44,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-122",
+      "textBox": {
+        "x": 2584.6,
+        "y": 403.16,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2502.44,
+        "y": 391.56,
+        "width": 118.8,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2502.44,
+          "y": 391.56
+        },
+        {
+          "x": 2621.24,
+          "y": 391.56
+        },
+        {
+          "x": 2621.24,
+          "y": 515.28
+        },
+        {
+          "x": 2502.44,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-123",
+      "textBox": {
+        "x": 2632.96,
+        "y": 402.8,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2536.04,
+        "y": 391.56,
+        "width": 203.58,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2659.76,
+          "y": 391.56
+        },
+        {
+          "x": 2739.62,
+          "y": 391.56
+        },
+        {
+          "x": 2615.9,
+          "y": 515.28
+        },
+        {
+          "x": 2536.04,
+          "y": 515.28
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-124",
+      "textBox": {
+        "x": 2682.64,
+        "y": 447.2,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2664.89,
+        "y": 427.23,
+        "width": 79.23,
+        "height": 79.23
+      },
+      "roomPolygon": [
+        {
+          "x": 2664.89,
+          "y": 466.29
+        },
+        {
+          "x": 2703.95,
+          "y": 427.23
+        },
+        {
+          "x": 2744.12,
+          "y": 467.4
+        },
+        {
+          "x": 2705.06,
+          "y": 506.46
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "high",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-125",
+      "textBox": {
+        "x": 2743.6,
+        "y": 613.52,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 600.36,
+        "width": 123.78,
+        "height": 81.24
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 600.36
+        },
+        {
+          "x": 2820.74,
+          "y": 600.36
+        },
+        {
+          "x": 2820.74,
+          "y": 681.6
+        },
+        {
+          "x": 2696.96,
+          "y": 681.6
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-126",
+      "textBox": {
+        "x": 2745.64,
+        "y": 700.52,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 684.48,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 684.48
+        },
+        {
+          "x": 2820.74,
+          "y": 684.48
+        },
+        {
+          "x": 2820.74,
+          "y": 766.56
+        },
+        {
+          "x": 2696.96,
+          "y": 766.56
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-127",
+      "textBox": {
+        "x": 2745.64,
+        "y": 785.36,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 769.32,
+        "width": 123.78,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 769.32
+        },
+        {
+          "x": 2820.74,
+          "y": 769.32
+        },
+        {
+          "x": 2820.74,
+          "y": 851.4
+        },
+        {
+          "x": 2696.96,
+          "y": 851.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-3-128",
+      "textBox": {
+        "x": 2750.44,
+        "y": 870.2,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2696.96,
+        "y": 854.28,
+        "width": 123.78,
+        "height": 82.12
+      },
+      "roomPolygon": [
+        {
+          "x": 2696.96,
+          "y": 854.28
+        },
+        {
+          "x": 2820.74,
+          "y": 854.28
+        },
+        {
+          "x": 2820.74,
+          "y": 936.4
+        },
+        {
+          "x": 2696.96,
+          "y": 936.4
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-101",
+      "textBox": {
+        "x": 674.08,
+        "y": 743.48,
+        "width": 36.91,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 644.87,
+        "y": 710.58,
+        "width": 82.17,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 644.87,
+          "y": 710.58
+        },
+        {
+          "x": 727.04,
+          "y": 710.58
+        },
+        {
+          "x": 727.04,
+          "y": 834.42
+        },
+        {
+          "x": 644.87,
+          "y": 834.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-102",
+      "textBox": {
+        "x": 759.76,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 710.58,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 710.58
+        },
+        {
+          "x": 812,
+          "y": 710.58
+        },
+        {
+          "x": 812,
+          "y": 834.42
+        },
+        {
+          "x": 729.92,
+          "y": 834.42
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-103",
+      "textBox": {
+        "x": 842.44,
+        "y": 743.36,
+        "width": 36.91,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 710.64
+        },
+        {
+          "x": 896.84,
+          "y": 710.64
+        },
+        {
+          "x": 896.84,
+          "y": 834.48
+        },
+        {
+          "x": 814.76,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-104",
+      "textBox": {
+        "x": 927.28,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 710.64,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 710.64
+        },
+        {
+          "x": 981.68,
+          "y": 710.64
+        },
+        {
+          "x": 981.68,
+          "y": 834.48
+        },
+        {
+          "x": 899.72,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-105",
+      "textBox": {
+        "x": 1012.24,
+        "y": 743.36,
+        "width": 36.91,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 984.56,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 984.56,
+          "y": 710.64
+        },
+        {
+          "x": 1066.64,
+          "y": 710.64
+        },
+        {
+          "x": 1066.64,
+          "y": 834.48
+        },
+        {
+          "x": 984.56,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-106",
+      "textBox": {
+        "x": 1097.08,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 710.64
+        },
+        {
+          "x": 1151.48,
+          "y": 710.64
+        },
+        {
+          "x": 1151.48,
+          "y": 834.48
+        },
+        {
+          "x": 1069.4,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-107",
+      "textBox": {
+        "x": 1181.92,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.24,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.24,
+          "y": 710.64
+        },
+        {
+          "x": 1236.32,
+          "y": 710.64
+        },
+        {
+          "x": 1236.32,
+          "y": 834.48
+        },
+        {
+          "x": 1154.24,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-108",
+      "textBox": {
+        "x": 1266.88,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 710.64
+        },
+        {
+          "x": 1321.28,
+          "y": 710.64
+        },
+        {
+          "x": 1321.28,
+          "y": 834.48
+        },
+        {
+          "x": 1239.2,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-109",
+      "textBox": {
+        "x": 1351.72,
+        "y": 743.36,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 710.64
+        },
+        {
+          "x": 1406.12,
+          "y": 710.64
+        },
+        {
+          "x": 1406.12,
+          "y": 834.48
+        },
+        {
+          "x": 1324.04,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-110",
+      "textBox": {
+        "x": 1434.4,
+        "y": 743.48,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 710.64,
+        "width": 83.52,
+        "height": 55.2
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 710.64
+        },
+        {
+          "x": 1492.4,
+          "y": 710.64
+        },
+        {
+          "x": 1492.4,
+          "y": 765.84
+        },
+        {
+          "x": 1408.88,
+          "y": 765.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-111",
+      "textBox": {
+        "x": 675.64,
+        "y": 861.32,
+        "width": 35.49,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 644.87,
+        "y": 834.42,
+        "width": 82.17,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 644.87,
+          "y": 834.42
+        },
+        {
+          "x": 727.04,
+          "y": 834.42
+        },
+        {
+          "x": 727.04,
+          "y": 958.14
+        },
+        {
+          "x": 644.87,
+          "y": 958.14
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-112",
+      "textBox": {
+        "x": 758.2,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 834.42,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 834.42
+        },
+        {
+          "x": 812,
+          "y": 834.42
+        },
+        {
+          "x": 812,
+          "y": 958.14
+        },
+        {
+          "x": 729.92,
+          "y": 958.14
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-113",
+      "textBox": {
+        "x": 840.88,
+        "y": 861.44,
+        "width": 35.49,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 834.48
+        },
+        {
+          "x": 896.84,
+          "y": 834.48
+        },
+        {
+          "x": 896.84,
+          "y": 958.2
+        },
+        {
+          "x": 814.76,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-114",
+      "textBox": {
+        "x": 925.84,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 834.48,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 834.48
+        },
+        {
+          "x": 981.68,
+          "y": 834.48
+        },
+        {
+          "x": 981.68,
+          "y": 958.2
+        },
+        {
+          "x": 899.72,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-115",
+      "textBox": {
+        "x": 1010.68,
+        "y": 861.44,
+        "width": 35.49,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 984.56,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 984.56,
+          "y": 834.48
+        },
+        {
+          "x": 1066.64,
+          "y": 834.48
+        },
+        {
+          "x": 1066.64,
+          "y": 958.2
+        },
+        {
+          "x": 984.56,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-116",
+      "textBox": {
+        "x": 1095.52,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 834.48
+        },
+        {
+          "x": 1151.48,
+          "y": 834.48
+        },
+        {
+          "x": 1151.48,
+          "y": 958.2
+        },
+        {
+          "x": 1069.4,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-117",
+      "textBox": {
+        "x": 1180.48,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.24,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.24,
+          "y": 834.48
+        },
+        {
+          "x": 1236.32,
+          "y": 834.48
+        },
+        {
+          "x": 1236.32,
+          "y": 958.2
+        },
+        {
+          "x": 1154.24,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-118",
+      "textBox": {
+        "x": 1265.32,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 834.48
+        },
+        {
+          "x": 1321.28,
+          "y": 834.48
+        },
+        {
+          "x": 1321.28,
+          "y": 958.2
+        },
+        {
+          "x": 1239.2,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-119",
+      "textBox": {
+        "x": 1350.16,
+        "y": 861.44,
+        "width": 35.99,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 834.48
+        },
+        {
+          "x": 1406.12,
+          "y": 834.48
+        },
+        {
+          "x": 1406.12,
+          "y": 958.2
+        },
+        {
+          "x": 1324.04,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-4-120",
+      "textBox": {
+        "x": 1435.96,
+        "y": 861.44,
+        "width": 37.41,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 834.48,
+        "width": 83.52,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 834.48
+        },
+        {
+          "x": 1492.4,
+          "y": 834.48
+        },
+        {
+          "x": 1492.4,
+          "y": 958.2
+        },
+        {
+          "x": 1408.88,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-101",
+      "textBox": {
+        "x": 1686.16,
+        "y": 743.72,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 710.64,
+        "width": 83.52,
+        "height": 55.2
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 710.64
+        },
+        {
+          "x": 1739.96,
+          "y": 710.64
+        },
+        {
+          "x": 1739.96,
+          "y": 765.84
+        },
+        {
+          "x": 1656.44,
+          "y": 765.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-102",
+      "textBox": {
+        "x": 1773.28,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 710.64
+        },
+        {
+          "x": 1824.8,
+          "y": 710.64
+        },
+        {
+          "x": 1824.8,
+          "y": 834.48
+        },
+        {
+          "x": 1742.72,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-103",
+      "textBox": {
+        "x": 1856.08,
+        "y": 743.6,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 710.64
+        },
+        {
+          "x": 1909.76,
+          "y": 710.64
+        },
+        {
+          "x": 1909.76,
+          "y": 834.48
+        },
+        {
+          "x": 1827.68,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-104",
+      "textBox": {
+        "x": 1940.92,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 710.64
+        },
+        {
+          "x": 1994.6,
+          "y": 710.64
+        },
+        {
+          "x": 1994.6,
+          "y": 834.48
+        },
+        {
+          "x": 1912.52,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-105",
+      "textBox": {
+        "x": 2025.76,
+        "y": 743.6,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 710.64
+        },
+        {
+          "x": 2079.44,
+          "y": 710.64
+        },
+        {
+          "x": 2079.44,
+          "y": 834.48
+        },
+        {
+          "x": 1997.36,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-106",
+      "textBox": {
+        "x": 2110.72,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2082.32,
+        "y": 710.64,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2082.32,
+          "y": 710.64
+        },
+        {
+          "x": 2164.28,
+          "y": 710.64
+        },
+        {
+          "x": 2164.28,
+          "y": 834.48
+        },
+        {
+          "x": 2082.32,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-107",
+      "textBox": {
+        "x": 2195.56,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 710.64
+        },
+        {
+          "x": 2249.24,
+          "y": 710.64
+        },
+        {
+          "x": 2249.24,
+          "y": 834.48
+        },
+        {
+          "x": 2167.16,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-108",
+      "textBox": {
+        "x": 2280.4,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 710.64,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 710.64
+        },
+        {
+          "x": 2334.08,
+          "y": 710.64
+        },
+        {
+          "x": 2334.08,
+          "y": 834.48
+        },
+        {
+          "x": 2252,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-109",
+      "textBox": {
+        "x": 2365.24,
+        "y": 743.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 710.64,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 710.64
+        },
+        {
+          "x": 2418.92,
+          "y": 710.64
+        },
+        {
+          "x": 2418.92,
+          "y": 834.48
+        },
+        {
+          "x": 2336.96,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-110",
+      "textBox": {
+        "x": 2446.6,
+        "y": 743.72,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 710.64,
+        "width": 82.18,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 710.64
+        },
+        {
+          "x": 2503.98,
+          "y": 710.64
+        },
+        {
+          "x": 2503.98,
+          "y": 834.48
+        },
+        {
+          "x": 2421.8,
+          "y": 834.48
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-111",
+      "textBox": {
+        "x": 1687.72,
+        "y": 861.56,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 834.48,
+        "width": 83.52,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 834.48
+        },
+        {
+          "x": 1739.96,
+          "y": 834.48
+        },
+        {
+          "x": 1739.96,
+          "y": 958.2
+        },
+        {
+          "x": 1656.44,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-112",
+      "textBox": {
+        "x": 1771.72,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 834.48
+        },
+        {
+          "x": 1824.8,
+          "y": 834.48
+        },
+        {
+          "x": 1824.8,
+          "y": 958.2
+        },
+        {
+          "x": 1742.72,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-113",
+      "textBox": {
+        "x": 1854.52,
+        "y": 861.68,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 834.48
+        },
+        {
+          "x": 1909.76,
+          "y": 834.48
+        },
+        {
+          "x": 1909.76,
+          "y": 958.2
+        },
+        {
+          "x": 1827.68,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-114",
+      "textBox": {
+        "x": 1939.36,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 834.48
+        },
+        {
+          "x": 1994.6,
+          "y": 834.48
+        },
+        {
+          "x": 1994.6,
+          "y": 958.2
+        },
+        {
+          "x": 1912.52,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-115",
+      "textBox": {
+        "x": 2024.2,
+        "y": 861.68,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 834.48
+        },
+        {
+          "x": 2079.44,
+          "y": 834.48
+        },
+        {
+          "x": 2079.44,
+          "y": 958.2
+        },
+        {
+          "x": 1997.36,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-116",
+      "textBox": {
+        "x": 2109.16,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2082.32,
+        "y": 834.48,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2082.32,
+          "y": 834.48
+        },
+        {
+          "x": 2164.28,
+          "y": 834.48
+        },
+        {
+          "x": 2164.28,
+          "y": 958.2
+        },
+        {
+          "x": 2082.32,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-117",
+      "textBox": {
+        "x": 2194,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 834.48
+        },
+        {
+          "x": 2249.24,
+          "y": 834.48
+        },
+        {
+          "x": 2249.24,
+          "y": 958.2
+        },
+        {
+          "x": 2167.16,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-118",
+      "textBox": {
+        "x": 2278.84,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 834.48,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 834.48
+        },
+        {
+          "x": 2334.08,
+          "y": 834.48
+        },
+        {
+          "x": 2334.08,
+          "y": 958.2
+        },
+        {
+          "x": 2252,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-119",
+      "textBox": {
+        "x": 2363.8,
+        "y": 861.68,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 834.48,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 834.48
+        },
+        {
+          "x": 2418.92,
+          "y": 834.48
+        },
+        {
+          "x": 2418.92,
+          "y": 958.2
+        },
+        {
+          "x": 2336.96,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-5-120",
+      "textBox": {
+        "x": 2448.16,
+        "y": 861.68,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 834.48,
+        "width": 82.18,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 834.48
+        },
+        {
+          "x": 2503.98,
+          "y": 834.48
+        },
+        {
+          "x": 2503.98,
+          "y": 958.2
+        },
+        {
+          "x": 2421.8,
+          "y": 958.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-101",
+      "textBox": {
+        "x": 672.76,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 643.64,
+        "y": 1135.02,
+        "width": 83.4,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 643.64,
+          "y": 1135.02
+        },
+        {
+          "x": 727.04,
+          "y": 1135.02
+        },
+        {
+          "x": 727.04,
+          "y": 1258.86
+        },
+        {
+          "x": 643.64,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-102",
+      "textBox": {
+        "x": 759.76,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 1135.02
+        },
+        {
+          "x": 812,
+          "y": 1135.02
+        },
+        {
+          "x": 812,
+          "y": 1258.86
+        },
+        {
+          "x": 729.92,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-103",
+      "textBox": {
+        "x": 842.44,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 1135.02
+        },
+        {
+          "x": 896.84,
+          "y": 1135.02
+        },
+        {
+          "x": 896.84,
+          "y": 1258.86
+        },
+        {
+          "x": 814.76,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-104",
+      "textBox": {
+        "x": 927.28,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 1135.02,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 1135.02
+        },
+        {
+          "x": 981.68,
+          "y": 1135.02
+        },
+        {
+          "x": 981.68,
+          "y": 1258.86
+        },
+        {
+          "x": 899.72,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-105",
+      "textBox": {
+        "x": 1012.24,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 984.56,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 984.56,
+          "y": 1135.02
+        },
+        {
+          "x": 1066.64,
+          "y": 1135.02
+        },
+        {
+          "x": 1066.64,
+          "y": 1258.86
+        },
+        {
+          "x": 984.56,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-106",
+      "textBox": {
+        "x": 1097.08,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 1135.62,
+        "width": 82.08,
+        "height": 123.24
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 1135.62
+        },
+        {
+          "x": 1151.48,
+          "y": 1135.62
+        },
+        {
+          "x": 1151.48,
+          "y": 1258.86
+        },
+        {
+          "x": 1069.4,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-107",
+      "textBox": {
+        "x": 1182.88,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.24,
+        "y": 1135.62,
+        "width": 82.08,
+        "height": 123.24
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.24,
+          "y": 1135.62
+        },
+        {
+          "x": 1236.32,
+          "y": 1135.62
+        },
+        {
+          "x": 1236.32,
+          "y": 1258.86
+        },
+        {
+          "x": 1154.24,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-108",
+      "textBox": {
+        "x": 1266.88,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 1135.62,
+        "width": 82.08,
+        "height": 123.24
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 1135.62
+        },
+        {
+          "x": 1321.28,
+          "y": 1135.62
+        },
+        {
+          "x": 1321.28,
+          "y": 1258.86
+        },
+        {
+          "x": 1239.2,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-109",
+      "textBox": {
+        "x": 1351.72,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 1135.02
+        },
+        {
+          "x": 1406.12,
+          "y": 1135.02
+        },
+        {
+          "x": 1406.12,
+          "y": 1258.86
+        },
+        {
+          "x": 1324.04,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-110",
+      "textBox": {
+        "x": 1433.08,
+        "y": 1168.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 1135.02,
+        "width": 83.52,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 1135.02
+        },
+        {
+          "x": 1492.4,
+          "y": 1135.02
+        },
+        {
+          "x": 1492.4,
+          "y": 1258.86
+        },
+        {
+          "x": 1408.88,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-111",
+      "textBox": {
+        "x": 671.2,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 643.64,
+        "y": 1258.86,
+        "width": 83.4,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 643.64,
+          "y": 1258.86
+        },
+        {
+          "x": 727.04,
+          "y": 1258.86
+        },
+        {
+          "x": 727.04,
+          "y": 1382.58
+        },
+        {
+          "x": 643.64,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-112",
+      "textBox": {
+        "x": 758.2,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 1258.86
+        },
+        {
+          "x": 812,
+          "y": 1258.86
+        },
+        {
+          "x": 812,
+          "y": 1382.58
+        },
+        {
+          "x": 729.92,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-113",
+      "textBox": {
+        "x": 840.88,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 1258.86
+        },
+        {
+          "x": 896.84,
+          "y": 1258.86
+        },
+        {
+          "x": 896.84,
+          "y": 1382.58
+        },
+        {
+          "x": 814.76,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-114",
+      "textBox": {
+        "x": 925.84,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 1258.86,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 1258.86
+        },
+        {
+          "x": 981.68,
+          "y": 1258.86
+        },
+        {
+          "x": 981.68,
+          "y": 1382.58
+        },
+        {
+          "x": 899.72,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-115",
+      "textBox": {
+        "x": 1010.68,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 984.56,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 984.56,
+          "y": 1258.86
+        },
+        {
+          "x": 1066.64,
+          "y": 1258.86
+        },
+        {
+          "x": 1066.64,
+          "y": 1382.58
+        },
+        {
+          "x": 984.56,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-116",
+      "textBox": {
+        "x": 1095.52,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 1258.86
+        },
+        {
+          "x": 1151.48,
+          "y": 1258.86
+        },
+        {
+          "x": 1151.48,
+          "y": 1382.58
+        },
+        {
+          "x": 1069.4,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-117",
+      "textBox": {
+        "x": 1180.48,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.24,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.24,
+          "y": 1258.86
+        },
+        {
+          "x": 1236.32,
+          "y": 1258.86
+        },
+        {
+          "x": 1236.32,
+          "y": 1382.58
+        },
+        {
+          "x": 1154.24,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-119",
+      "textBox": {
+        "x": 1350.16,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 1258.86
+        },
+        {
+          "x": 1406.12,
+          "y": 1258.86
+        },
+        {
+          "x": 1406.12,
+          "y": 1382.58
+        },
+        {
+          "x": 1324.04,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-120",
+      "textBox": {
+        "x": 1431.52,
+        "y": 1297.28,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 1258.86,
+        "width": 83.52,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 1258.86
+        },
+        {
+          "x": 1492.4,
+          "y": 1258.86
+        },
+        {
+          "x": 1492.4,
+          "y": 1382.58
+        },
+        {
+          "x": 1408.88,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-6-18",
+      "textBox": {
+        "x": 1265.32,
+        "y": 1297.52,
+        "width": 31.75,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 1258.86
+        },
+        {
+          "x": 1321.28,
+          "y": 1258.86
+        },
+        {
+          "x": 1321.28,
+          "y": 1382.58
+        },
+        {
+          "x": 1239.2,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-101",
+      "textBox": {
+        "x": 1686.28,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 1135.02,
+        "width": 83.52,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 1135.02
+        },
+        {
+          "x": 1739.96,
+          "y": 1135.02
+        },
+        {
+          "x": 1739.96,
+          "y": 1258.86
+        },
+        {
+          "x": 1656.44,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-102",
+      "textBox": {
+        "x": 1773.28,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 1135.02
+        },
+        {
+          "x": 1824.8,
+          "y": 1135.02
+        },
+        {
+          "x": 1824.8,
+          "y": 1258.86
+        },
+        {
+          "x": 1742.72,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-103",
+      "textBox": {
+        "x": 1856.08,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 1135.02
+        },
+        {
+          "x": 1909.76,
+          "y": 1135.02
+        },
+        {
+          "x": 1909.76,
+          "y": 1258.86
+        },
+        {
+          "x": 1827.68,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-104",
+      "textBox": {
+        "x": 1940.92,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 1135.02
+        },
+        {
+          "x": 1994.6,
+          "y": 1135.02
+        },
+        {
+          "x": 1994.6,
+          "y": 1258.86
+        },
+        {
+          "x": 1912.52,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-105",
+      "textBox": {
+        "x": 2025.76,
+        "y": 1168.04,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 1135.02
+        },
+        {
+          "x": 2079.44,
+          "y": 1135.02
+        },
+        {
+          "x": 2079.44,
+          "y": 1258.86
+        },
+        {
+          "x": 1997.36,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-106",
+      "textBox": {
+        "x": 2110.72,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2082.32,
+        "y": 1135.02,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2082.32,
+          "y": 1135.02
+        },
+        {
+          "x": 2164.28,
+          "y": 1135.02
+        },
+        {
+          "x": 2164.28,
+          "y": 1258.86
+        },
+        {
+          "x": 2082.32,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-107",
+      "textBox": {
+        "x": 2195.56,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 1135.02
+        },
+        {
+          "x": 2249.24,
+          "y": 1135.02
+        },
+        {
+          "x": 2249.24,
+          "y": 1258.86
+        },
+        {
+          "x": 2167.16,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-108",
+      "textBox": {
+        "x": 2280.4,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 1135.02,
+        "width": 82.08,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 1135.02
+        },
+        {
+          "x": 2334.08,
+          "y": 1135.02
+        },
+        {
+          "x": 2334.08,
+          "y": 1258.86
+        },
+        {
+          "x": 2252,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-109",
+      "textBox": {
+        "x": 2365.24,
+        "y": 1168.04,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 1135.02,
+        "width": 81.96,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 1135.02
+        },
+        {
+          "x": 2418.92,
+          "y": 1135.02
+        },
+        {
+          "x": 2418.92,
+          "y": 1258.86
+        },
+        {
+          "x": 2336.96,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-110",
+      "textBox": {
+        "x": 2446.6,
+        "y": 1168.04,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 1135.02,
+        "width": 83.4,
+        "height": 123.84
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 1135.02
+        },
+        {
+          "x": 2505.2,
+          "y": 1135.02
+        },
+        {
+          "x": 2505.2,
+          "y": 1258.86
+        },
+        {
+          "x": 2421.8,
+          "y": 1258.86
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-111",
+      "textBox": {
+        "x": 1684.72,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1656.44,
+        "y": 1258.86,
+        "width": 83.52,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1656.44,
+          "y": 1258.86
+        },
+        {
+          "x": 1739.96,
+          "y": 1258.86
+        },
+        {
+          "x": 1739.96,
+          "y": 1382.58
+        },
+        {
+          "x": 1656.44,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-112",
+      "textBox": {
+        "x": 1771.72,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1742.72,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1742.72,
+          "y": 1258.86
+        },
+        {
+          "x": 1824.8,
+          "y": 1258.86
+        },
+        {
+          "x": 1824.8,
+          "y": 1382.58
+        },
+        {
+          "x": 1742.72,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-113",
+      "textBox": {
+        "x": 1854.52,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1827.68,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1827.68,
+          "y": 1258.86
+        },
+        {
+          "x": 1909.76,
+          "y": 1258.86
+        },
+        {
+          "x": 1909.76,
+          "y": 1382.58
+        },
+        {
+          "x": 1827.68,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-114",
+      "textBox": {
+        "x": 1939.36,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1912.52,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1912.52,
+          "y": 1258.86
+        },
+        {
+          "x": 1994.6,
+          "y": 1258.86
+        },
+        {
+          "x": 1994.6,
+          "y": 1382.58
+        },
+        {
+          "x": 1912.52,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-115",
+      "textBox": {
+        "x": 2024.2,
+        "y": 1297.4,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1997.36,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 1997.36,
+          "y": 1258.86
+        },
+        {
+          "x": 2079.44,
+          "y": 1258.86
+        },
+        {
+          "x": 2079.44,
+          "y": 1382.58
+        },
+        {
+          "x": 1997.36,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-116",
+      "textBox": {
+        "x": 2109.16,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2082.32,
+        "y": 1258.86,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2082.32,
+          "y": 1258.86
+        },
+        {
+          "x": 2164.28,
+          "y": 1258.86
+        },
+        {
+          "x": 2164.28,
+          "y": 1382.58
+        },
+        {
+          "x": 2082.32,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-117",
+      "textBox": {
+        "x": 2194,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2167.16,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2167.16,
+          "y": 1258.86
+        },
+        {
+          "x": 2249.24,
+          "y": 1258.86
+        },
+        {
+          "x": 2249.24,
+          "y": 1382.58
+        },
+        {
+          "x": 2167.16,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-118",
+      "textBox": {
+        "x": 2278.84,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2252,
+        "y": 1258.86,
+        "width": 82.08,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2252,
+          "y": 1258.86
+        },
+        {
+          "x": 2334.08,
+          "y": 1258.86
+        },
+        {
+          "x": 2334.08,
+          "y": 1382.58
+        },
+        {
+          "x": 2252,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-119",
+      "textBox": {
+        "x": 2363.8,
+        "y": 1297.4,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2336.96,
+        "y": 1258.86,
+        "width": 81.96,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2336.96,
+          "y": 1258.86
+        },
+        {
+          "x": 2418.92,
+          "y": 1258.86
+        },
+        {
+          "x": 2418.92,
+          "y": 1382.58
+        },
+        {
+          "x": 2336.96,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-7-120",
+      "textBox": {
+        "x": 2445.04,
+        "y": 1297.28,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 2421.8,
+        "y": 1258.86,
+        "width": 83.4,
+        "height": 123.72
+      },
+      "roomPolygon": [
+        {
+          "x": 2421.8,
+          "y": 1258.86
+        },
+        {
+          "x": 2505.2,
+          "y": 1258.86
+        },
+        {
+          "x": 2505.2,
+          "y": 1382.58
+        },
+        {
+          "x": 2421.8,
+          "y": 1382.58
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-101",
+      "textBox": {
+        "x": 252.64,
+        "y": 1168.76,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1114.56,
+        "width": 122.34,
+        "height": 118.8
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1114.56
+        },
+        {
+          "x": 326.72,
+          "y": 1114.56
+        },
+        {
+          "x": 326.72,
+          "y": 1233.36
+        },
+        {
+          "x": 204.38,
+          "y": 1233.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-102",
+      "textBox": {
+        "x": 252.64,
+        "y": 1252.16,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1236.12,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1236.12
+        },
+        {
+          "x": 326.72,
+          "y": 1236.12
+        },
+        {
+          "x": 326.72,
+          "y": 1318.2
+        },
+        {
+          "x": 204.38,
+          "y": 1318.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-103",
+      "textBox": {
+        "x": 252.64,
+        "y": 1337.12,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1321.08,
+        "width": 122.34,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1321.08
+        },
+        {
+          "x": 326.72,
+          "y": 1321.08
+        },
+        {
+          "x": 326.72,
+          "y": 1403.04
+        },
+        {
+          "x": 204.38,
+          "y": 1403.04
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-104",
+      "textBox": {
+        "x": 252.64,
+        "y": 1421.96,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1405.92,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1405.92
+        },
+        {
+          "x": 326.72,
+          "y": 1405.92
+        },
+        {
+          "x": 326.72,
+          "y": 1488
+        },
+        {
+          "x": 204.38,
+          "y": 1488
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-105",
+      "textBox": {
+        "x": 252.64,
+        "y": 1506.8,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1490.76,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1490.76
+        },
+        {
+          "x": 326.72,
+          "y": 1490.76
+        },
+        {
+          "x": 326.72,
+          "y": 1572.84
+        },
+        {
+          "x": 204.38,
+          "y": 1572.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-106",
+      "textBox": {
+        "x": 252.64,
+        "y": 1591.64,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1575.72,
+        "width": 122.34,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1575.72
+        },
+        {
+          "x": 326.72,
+          "y": 1575.72
+        },
+        {
+          "x": 326.72,
+          "y": 1657.68
+        },
+        {
+          "x": 204.38,
+          "y": 1657.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-107",
+      "textBox": {
+        "x": 252.64,
+        "y": 1676.6,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1660.56,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1660.56
+        },
+        {
+          "x": 326.72,
+          "y": 1660.56
+        },
+        {
+          "x": 326.72,
+          "y": 1742.64
+        },
+        {
+          "x": 204.38,
+          "y": 1742.64
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-108",
+      "textBox": {
+        "x": 252.64,
+        "y": 1761.44,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 204.38,
+        "y": 1745.4,
+        "width": 122.34,
+        "height": 82.09
+      },
+      "roomPolygon": [
+        {
+          "x": 204.38,
+          "y": 1745.4
+        },
+        {
+          "x": 326.72,
+          "y": 1745.4
+        },
+        {
+          "x": 326.72,
+          "y": 1827.49
+        },
+        {
+          "x": 204.38,
+          "y": 1827.49
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-109",
+      "textBox": {
+        "x": 369.52,
+        "y": 1168.76,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1151.12,
+        "width": 122.34,
+        "height": 82.24
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1151.12
+        },
+        {
+          "x": 451.94,
+          "y": 1151.12
+        },
+        {
+          "x": 451.94,
+          "y": 1233.36
+        },
+        {
+          "x": 329.6,
+          "y": 1233.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-110",
+      "textBox": {
+        "x": 369.52,
+        "y": 1252.28,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1236.12,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1236.12
+        },
+        {
+          "x": 451.94,
+          "y": 1236.12
+        },
+        {
+          "x": 451.94,
+          "y": 1318.2
+        },
+        {
+          "x": 329.6,
+          "y": 1318.2
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-111",
+      "textBox": {
+        "x": 369.52,
+        "y": 1337.12,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1321.08,
+        "width": 122.34,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1321.08
+        },
+        {
+          "x": 451.94,
+          "y": 1321.08
+        },
+        {
+          "x": 451.94,
+          "y": 1403.04
+        },
+        {
+          "x": 329.6,
+          "y": 1403.04
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-112",
+      "textBox": {
+        "x": 369.52,
+        "y": 1421.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1405.92,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1405.92
+        },
+        {
+          "x": 451.94,
+          "y": 1405.92
+        },
+        {
+          "x": 451.94,
+          "y": 1488
+        },
+        {
+          "x": 329.6,
+          "y": 1488
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-113",
+      "textBox": {
+        "x": 369.52,
+        "y": 1506.92,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1490.76,
+        "width": 122.34,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1490.76
+        },
+        {
+          "x": 451.94,
+          "y": 1490.76
+        },
+        {
+          "x": 451.94,
+          "y": 1572.84
+        },
+        {
+          "x": 329.6,
+          "y": 1572.84
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-114",
+      "textBox": {
+        "x": 369.52,
+        "y": 1591.28,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 329.6,
+        "y": 1575.72,
+        "width": 122.34,
+        "height": 81.96
+      },
+      "roomPolygon": [
+        {
+          "x": 329.6,
+          "y": 1575.72
+        },
+        {
+          "x": 451.94,
+          "y": 1575.72
+        },
+        {
+          "x": 451.94,
+          "y": 1657.68
+        },
+        {
+          "x": 329.6,
+          "y": 1657.68
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-115",
+      "textBox": {
+        "x": 369.52,
+        "y": 1676.6,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 361.76,
+        "y": 1660.56,
+        "width": 90.18,
+        "height": 82.08
+      },
+      "roomPolygon": [
+        {
+          "x": 361.76,
+          "y": 1660.56
+        },
+        {
+          "x": 451.94,
+          "y": 1660.56
+        },
+        {
+          "x": 451.94,
+          "y": 1742.64
+        },
+        {
+          "x": 361.76,
+          "y": 1742.64
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-8-116",
+      "textBox": {
+        "x": 369.52,
+        "y": 1761.44,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 361.76,
+        "y": 1745.4,
+        "width": 90.18,
+        "height": 83.52
+      },
+      "roomPolygon": [
+        {
+          "x": 361.76,
+          "y": 1745.4
+        },
+        {
+          "x": 451.94,
+          "y": 1745.4
+        },
+        {
+          "x": 451.94,
+          "y": 1828.92
+        },
+        {
+          "x": 361.76,
+          "y": 1828.92
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-101",
+      "textBox": {
+        "x": 662.8,
+        "y": 1616,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 643.64,
+        "y": 1577.76,
+        "width": 83.4,
+        "height": 85.56
+      },
+      "roomPolygon": [
+        {
+          "x": 643.64,
+          "y": 1577.76
+        },
+        {
+          "x": 727.04,
+          "y": 1577.76
+        },
+        {
+          "x": 727.04,
+          "y": 1663.32
+        },
+        {
+          "x": 643.64,
+          "y": 1663.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-102",
+      "textBox": {
+        "x": 744.16,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 85.56
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 1577.76
+        },
+        {
+          "x": 812,
+          "y": 1577.76
+        },
+        {
+          "x": 812,
+          "y": 1663.32
+        },
+        {
+          "x": 729.92,
+          "y": 1663.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-103",
+      "textBox": {
+        "x": 829,
+        "y": 1615.88,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 1577.76
+        },
+        {
+          "x": 896.84,
+          "y": 1577.76
+        },
+        {
+          "x": 896.84,
+          "y": 1700.16
+        },
+        {
+          "x": 814.76,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-104",
+      "textBox": {
+        "x": 913.84,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 1577.76,
+        "width": 81.96,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 1577.76
+        },
+        {
+          "x": 981.68,
+          "y": 1577.76
+        },
+        {
+          "x": 981.68,
+          "y": 1700.16
+        },
+        {
+          "x": 899.72,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-105",
+      "textBox": {
+        "x": 998.8,
+        "y": 1615.88,
+        "width": 36.2,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 984.56,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 984.56,
+          "y": 1577.76
+        },
+        {
+          "x": 1066.64,
+          "y": 1577.76
+        },
+        {
+          "x": 1066.64,
+          "y": 1700.16
+        },
+        {
+          "x": 984.56,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-106",
+      "textBox": {
+        "x": 1083.64,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 1577.76
+        },
+        {
+          "x": 1151.48,
+          "y": 1577.76
+        },
+        {
+          "x": 1151.48,
+          "y": 1700.16
+        },
+        {
+          "x": 1069.4,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-107",
+      "textBox": {
+        "x": 1167.76,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.36,
+        "y": 1577.76,
+        "width": 81.96,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.36,
+          "y": 1577.76
+        },
+        {
+          "x": 1236.32,
+          "y": 1577.76
+        },
+        {
+          "x": 1236.32,
+          "y": 1700.16
+        },
+        {
+          "x": 1154.36,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-108",
+      "textBox": {
+        "x": 1253.44,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 1577.76
+        },
+        {
+          "x": 1321.28,
+          "y": 1577.76
+        },
+        {
+          "x": 1321.28,
+          "y": 1700.16
+        },
+        {
+          "x": 1239.2,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-109",
+      "textBox": {
+        "x": 1338.28,
+        "y": 1615.88,
+        "width": 36.7,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 1577.76,
+        "width": 82.08,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 1577.76
+        },
+        {
+          "x": 1406.12,
+          "y": 1577.76
+        },
+        {
+          "x": 1406.12,
+          "y": 1700.16
+        },
+        {
+          "x": 1324.04,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-110",
+      "textBox": {
+        "x": 1424.56,
+        "y": 1616,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 1577.76,
+        "width": 83.52,
+        "height": 122.4
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 1577.76
+        },
+        {
+          "x": 1492.4,
+          "y": 1577.76
+        },
+        {
+          "x": 1492.4,
+          "y": 1700.16
+        },
+        {
+          "x": 1408.88,
+          "y": 1700.16
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-111",
+      "textBox": {
+        "x": 661.24,
+        "y": 1733.96,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 643.64,
+        "y": 1703.04,
+        "width": 83.4,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 643.64,
+          "y": 1703.04
+        },
+        {
+          "x": 727.04,
+          "y": 1703.04
+        },
+        {
+          "x": 727.04,
+          "y": 1825.38
+        },
+        {
+          "x": 643.64,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-112",
+      "textBox": {
+        "x": 747.04,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 729.92,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 729.92,
+          "y": 1703.04
+        },
+        {
+          "x": 812,
+          "y": 1703.04
+        },
+        {
+          "x": 812,
+          "y": 1825.38
+        },
+        {
+          "x": 729.92,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-113",
+      "textBox": {
+        "x": 832,
+        "y": 1733.96,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 814.76,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 814.76,
+          "y": 1703.04
+        },
+        {
+          "x": 896.84,
+          "y": 1703.04
+        },
+        {
+          "x": 896.84,
+          "y": 1825.32
+        },
+        {
+          "x": 814.76,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-114",
+      "textBox": {
+        "x": 916.84,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 899.72,
+        "y": 1703.04,
+        "width": 81.96,
+        "height": 52.32
+      },
+      "roomPolygon": [
+        {
+          "x": 899.72,
+          "y": 1703.04
+        },
+        {
+          "x": 981.68,
+          "y": 1703.04
+        },
+        {
+          "x": 981.68,
+          "y": 1755.36
+        },
+        {
+          "x": 899.72,
+          "y": 1755.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-115",
+      "textBox": {
+        "x": 1086.64,
+        "y": 1733.96,
+        "width": 34.78,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1069.4,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 52.32
+      },
+      "roomPolygon": [
+        {
+          "x": 1069.4,
+          "y": 1703.04
+        },
+        {
+          "x": 1151.48,
+          "y": 1703.04
+        },
+        {
+          "x": 1151.48,
+          "y": 1755.36
+        },
+        {
+          "x": 1069.4,
+          "y": 1755.36
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-116",
+      "textBox": {
+        "x": 1170.76,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1154.36,
+        "y": 1703.04,
+        "width": 81.96,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 1154.36,
+          "y": 1703.04
+        },
+        {
+          "x": 1236.32,
+          "y": 1703.04
+        },
+        {
+          "x": 1236.32,
+          "y": 1825.32
+        },
+        {
+          "x": 1154.36,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-117",
+      "textBox": {
+        "x": 1256.32,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1239.2,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.28
+      },
+      "roomPolygon": [
+        {
+          "x": 1239.2,
+          "y": 1703.04
+        },
+        {
+          "x": 1321.28,
+          "y": 1703.04
+        },
+        {
+          "x": 1321.28,
+          "y": 1825.32
+        },
+        {
+          "x": 1239.2,
+          "y": 1825.32
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-118",
+      "textBox": {
+        "x": 1341.16,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1324.04,
+        "y": 1703.04,
+        "width": 82.08,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 1324.04,
+          "y": 1703.04
+        },
+        {
+          "x": 1406.12,
+          "y": 1703.04
+        },
+        {
+          "x": 1406.12,
+          "y": 1825.38
+        },
+        {
+          "x": 1324.04,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    },
+    {
+      "shopId": "A-9-119",
+      "textBox": {
+        "x": 1427.44,
+        "y": 1733.96,
+        "width": 35.28,
+        "height": 12
+      },
+      "roomBox": {
+        "x": 1408.88,
+        "y": 1703.04,
+        "width": 83.52,
+        "height": 122.34
+      },
+      "roomPolygon": [
+        {
+          "x": 1408.88,
+          "y": 1703.04
+        },
+        {
+          "x": 1492.4,
+          "y": 1703.04
+        },
+        {
+          "x": 1492.4,
+          "y": 1825.38
+        },
+        {
+          "x": 1408.88,
+          "y": 1825.38
+        }
+      ],
+      "method": "canonical-strip-polygon",
+      "confidence": "medium",
+      "boundaries": null
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 import { useEffect, useLayoutEffect, useRef, useState } from 'react';
 import { fetchSvgMarkup } from '../services/svgAssetService';
+import { fetchFloorPlanGeometry } from '../services/floorPlanGeometryService';
 import {
   applyShopStatuses,
   initializeShopLayer,
@@ -17,6 +18,7 @@ export default function ShopFloorPlan({
   const containerRef = useRef(null);
   const registryRef = useRef(new Map());
   const [svgMarkup, setSvgMarkup] = useState('');
+  const [shopGeometry, setShopGeometry] = useState(null);
   const [isLoading, setIsLoading] = useState(true);
   const [errorMessage, setErrorMessage] = useState('');
 
@@ -26,15 +28,20 @@ export default function ShopFloorPlan({
     async function loadSvg() {
       setIsLoading(true);
       setErrorMessage('');
+      setShopGeometry(null);
 
       try {
-        const markup = await fetchSvgMarkup(floorPlan.assetPath);
+        const [markup, geometry] = await Promise.all([
+          fetchSvgMarkup(floorPlan.assetPath),
+          fetchFloorPlanGeometry(floorPlan.assetPath).catch(() => null),
+        ]);
 
         if (!isMounted) {
           return;
         }
 
         setSvgMarkup(markup);
+        setShopGeometry(geometry);
       } catch (error) {
         if (!isMounted) {
           return;
@@ -64,6 +71,7 @@ export default function ShopFloorPlan({
 
     const session = initializeShopLayer({
       container: containerRef.current,
+      geometryShops: shopGeometry?.shops || [],
       onHoverShopChange,
       onSelectShop,
     });
@@ -81,6 +89,7 @@ export default function ShopFloorPlan({
     };
   }, [
     floorPlan.id,
+    shopGeometry,
     onHoverShopChange,
     onSelectShop,
     onShopIdsChange,
